@@ -9,8 +9,6 @@ I'm a Physics postgraduate, writer, and STEM educator exploring the intersection
 
 </p>
 
-> *"🚧 Actively building out the projects below — check back soon"*
-
 ## 🚀 About Me
 
 - 🎓 Physics Postgraduate
@@ -65,6 +63,8 @@ Through Mathematics, Physics, Programming, Linux, Scientific Computing, and Arti
 - Open Source Development
 
 ---
+
+> *"🚧 Actively building out the projects below — check back soon"*
 
 ## 🛠️ Projects I'm Building
 
