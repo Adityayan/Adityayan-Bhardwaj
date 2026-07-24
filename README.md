@@ -9,6 +9,19 @@ I'm a Physics postgraduate, writer, and STEM educator exploring the intersection
 
 </p>
 
+## 🚀 About Me
+
+- 🎓 Physics Postgraduate
+- 📚 Mathematics & Physics Educator
+- ✍️ Technical Writer
+- 🤖 Aspiring AI Trainer & AI Product Builder
+- 🐧 Linux & Open Source Enthusiast
+- 🧮 Interested in Scientific Computing
+- 🌱 Lifelong Learner
+
+> *"I believe analytical thinking is a skill that transcends disciplines. Whether solving a mathematical proof, debugging code, or understanding an AI model, the mindset remains the same."*
+
+
 <p align="left">
   <a href="https://www.linkedin.com/in/adityayan-bhardwaj-656472216/" taget="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
@@ -27,18 +40,6 @@ I'm a Physics postgraduate, writer, and STEM educator exploring the intersection
   
   
 </p>
-
-## 🚀 About Me
-
-- 🎓 Physics Postgraduate
-- 📚 Mathematics & Physics Educator
-- ✍️ Technical Writer
-- 🤖 Aspiring AI Trainer & AI Product Builder
-- 🐧 Linux & Open Source Enthusiast
-- 🧮 Interested in Scientific Computing
-- 🌱 Lifelong Learner
-
-> *"I believe analytical thinking is a skill that transcends disciplines. Whether solving a mathematical proof, debugging code, or understanding an AI model, the mindset remains the same."*
 
 ---
 
@@ -145,14 +146,6 @@ I'm interested not only in writing code, but in building tools and ideas that ar
 
 ---
 
-## 📫 Let's Connect
-
-- 💼 LinkedIn: www.linkedin.com/in/adityayan-bhardwaj-656472216
-- 🐦 X (Twitter): https://x.com/Adityayan_B
-- ✍️ Substack: https://substack.com/@adityayanbhardwaj
-- 📧 Email: adityayan88@gmail.com
-
----
 
 <p align="center">
 
