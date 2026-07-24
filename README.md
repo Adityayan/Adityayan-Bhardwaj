@@ -16,13 +16,14 @@ I'm a Physics postgraduate, writer, and STEM educator exploring the intersection
 - ✍️ Technical Writer
 - 🤖 Aspiring AI Trainer & AI Product Builder
 - 🐧 Linux & Open Source Enthusiast
-- 🧮 Interested in Scientific Computing
+- 🧮 Interested in Scientific Computin
 - 🌱 Lifelong Learner
 
 > *"I believe analytical thinking is a skill that transcends disciplines. Whether solving a mathematical proof, debugging code, or understanding an AI model, the mindset remains the same."*
 
-
+## Connect
 <p align="left">
+
   <a href="https://www.linkedin.com/in/adityayan-bhardwaj-656472216/" taget="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
