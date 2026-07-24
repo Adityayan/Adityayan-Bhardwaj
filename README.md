@@ -9,7 +9,24 @@ I'm a Physics postgraduate, writer, and STEM educator exploring the intersection
 
 </p>
 
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/adityayan-bhardwaj-656472216/" taget="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://adityayan88@gmail.com" taget="blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="LinkedIn" />
+  </a>
+
+  <a href="https://x.com/Adityayan_B" taget="blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="LinkedIn" />
+  </a>
+
+   <a href="https://app.notion.com/p/Adityayan-Bhardwaj-Web-Content-Writer-3061680c20bd80c4b02aedab7c6feee4" taget="blank">
+    <img src="https://skillicons.dev/icons?i=notion" alt="LinkedIn" />
+  </a>
+  
+  
+</p>
 
 ## 🚀 About Me
 
