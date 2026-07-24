@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Adityayan Bhardwaj</h1>
 
-<h3 align="center">
+<h3 align="left">
 Physics Postgraduate • Writer • STEM Educator • Digital Craftsman
 </h3>
 
-<p align="center">
+<p align="left">
 I'm a Physics postgraduate, writer, and STEM educator exploring the intersection of mathematics, programming, Linux, AI, and scientific computing. I enjoy understanding how things work—from mathematical proofs and physical laws to Linux systems and AI models. This GitHub is where I document what I learn, build projects, and share ideas that turn curiosity into practical skills.
 
 </p>
