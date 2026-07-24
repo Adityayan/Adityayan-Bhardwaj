@@ -14,7 +14,6 @@ I'm a Physics postgraduate, writer, and STEM educator exploring the intersection
 - 🎓 Physics Postgraduate
 - 📚 Mathematics & Physics Educator
 - ✍️ Technical Writer
-- 🤖 Aspiring AI Trainer & AI Product Builder
 - 🐧 Linux & Open Source Enthusiast
 - 🧮 Interested in Scientific Computin
 - 🌱 Lifelong Learner
