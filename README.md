@@ -86,28 +86,6 @@ Through Mathematics, Physics, Programming, Linux, Scientific Computing, and Arti
 
 ---
 
-## 💻 Technical Skills
-
-### Programming
-
-- Python ⭐⭐⭐☆☆
-- SQL ⭐⭐☆☆☆
-- Git ⭐☆☆☆☆
-
-### Mathematics & Physics
-
-- Mathematics ⭐⭐⭐⭐☆
-- Physics ⭐⭐⭐⭐☆
-- GeoGebra ⭐⭐⭐⭐☆
-- LaTeX ⭐⭐⭐☆☆
-
-### Productivity
-
-- Linux ⭐☆☆☆☆
-- Microsoft Excel ⭐⭐⭐☆☆
-
----
-
 ## ✍️ I Write About
 
 - Mathematics
