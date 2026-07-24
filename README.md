@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm Adityayan Bhardwaj</h1>
+<h1 align="left">Adityayan Bhardwaj</h1>
 
 <h3 align="left">
-`Physics Postgraduate • Writer • STEM Educator • Digital Craftsman`
+Physics Postgraduate • Writer • STEM Educator • Digital Craftsman
 </h3>
 
 <p align="left">
