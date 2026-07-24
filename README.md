@@ -9,6 +9,8 @@ I'm a Physics postgraduate, writer, and STEM educator exploring the intersection
 
 </p>
 
+> *"🚧 Actively building out the projects below — check back soon"*
+
 ## 🚀 About Me
 
 - 🎓 Physics Postgraduate
