@@ -1,21 +1,21 @@
 <h1 align="left">Adityayan Bhardwaj</h1>
 
 <h3 align="left">
-Physics Postgraduate • Writer • STEM Educator • Digital Craftsman
+Physics Postgraduate • Data Science Professional •
 </h3>
 
 <p align="left">
-I'm a Physics postgraduate, writer, and STEM educator exploring the intersection of mathematics, programming, Linux, AI, and scientific computing. I enjoy understanding how things work—from mathematical proofs and physical laws to Linux systems and AI models. This GitHub is where I document what I learn, build projects, and share ideas that turn curiosity into practical skills.
+I'm a Physics postgraduate, Data Science Professional, and STEM educator exploring the intersection of mathematics, programming, Linux, AI, and scientific computing. This GitHub is where I document what I learn, build projects, and share ideas that turn curiosity into practical skills.
 
 </p>
 
 ## 🚀 About Me
 
 - 🎓 Physics Postgraduate
+- 📊 Data Nerd
 - 📚 Mathematics & Physics Educator
 - ✍️ Technical Writer
-- 🐧 Linux & Open Source Enthusiast
-- 🧮 Interested in Scientific Computin
+- 🧮 Interested in Scientific Computing
 - 🌱 Lifelong Learner
 
 > *"I believe analytical thinking is a skill that transcends disciplines. Whether solving a mathematical proof, debugging code, or understanding an AI model, the mindset remains the same."*
@@ -72,18 +72,6 @@ Through Mathematics, Physics, Programming, Linux, Scientific Computing, and Arti
 
 🗄️ SQL Portfolio
 
-🐧 Linux Learning Notes
-
-🤖 AI Evaluation
-
-📐 Mathematics Problem Solvers
-
-⚛️ Physics Notes in LaTeX
-
-🧪 Physics Simulations
-
-📊 Scientific Computing Projects
-
 ---
 
 ## ✍️ I Write About
@@ -96,18 +84,6 @@ Through Mathematics, Physics, Programming, Linux, Scientific Computing, and Arti
 - Scientific Computing
 - Learning Strategies
 - Education
-
----
-
-## 🤝 Open to Collaborate On
-
-- AI Training
-- Mathematics SME Projects
-- Physics Education
-- Technical Writing
-- Scientific Computing
-- Educational Technology
-- Open Source Projects
 
 ---
 
