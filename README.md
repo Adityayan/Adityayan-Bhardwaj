@@ -1,24 +1,28 @@
 <h1 align="left">Adityayan Bhardwaj</h1>
 
 <h3 align="left">
-Physics Postgraduate • Data Science Professional •
+Physics Postgraduate • Data Worker •
 </h3>
 
 <p align="left">
-I'm a Physics postgraduate, Data Science Professional, and STEM educator exploring the intersection of mathematics, programming, Linux, AI, and scientific computing. This GitHub is where I document what I learn, build projects, and share ideas that turn curiosity into practical skills.
+I'm Adityayan Bhardwaj, a Physics postgraduate and Data Analyst with expertise in data analysis and reporting, query optimisation, database design, and data modelling.
+
+Querying data using SQL.
+Generate reports and perform ad-hoc data analysis using SQL.
+Developing dashboards on Power BI.
+Data analysis and reporting using Google Sheets and Excel.
 
 </p>
 
-## 🚀 About Me
-
-- 🎓 Physics Postgraduate
-- 📊 Data Nerd
+## 🚀 About Me in 30 Sec 
+- 🎓 Physics Postgraduate and transitioning to the data world
 - 📚 Mathematics & Physics Educator
+-  📊 Data Nerd
 - ✍️ Technical Writer
 - 🧮 Interested in Scientific Computing
 - 🌱 Lifelong Learner
 
-> *"I believe analytical thinking is a skill that transcends disciplines. Whether solving a mathematical proof, debugging code, or understanding an AI model, the mindset remains the same."*
+> *"I believe analytical thinking is a skill that transcends disciplines. Whether uncovering patterns in data, solving a mathematical problem, debugging code, or building and interpreting a machine learning model, the mindset remains the same: break complex problems into smaller parts, question assumptions, find meaningful patterns, and use evidence to make better decisions."*
 
 ## Connect
 <p align="left">
@@ -43,47 +47,14 @@ I'm a Physics postgraduate, Data Science Professional, and STEM educator explori
 
 ---
 
-## 🎯 My Mission
-
-**Crafting ideas at the intersection of science, software, and education.**
-I want to build technology that makes learning more intuitive.
-Through Mathematics, Physics, Programming, Linux, Scientific Computing, and Artificial Intelligence, I'm exploring better ways to understand complex systems and explain them simply.
-
----
-
-## 📖 Currently Learning
-
-- Python
-- SQL
-- Linux
-- Git & GitHub
-- Scientific Computing
-- AI Evaluation
-- Data Analytics
-- Open Source Development
-
----
-
 > *"🚧 Actively building out the projects below — check back soon"*
 
 ## 🛠️ Projects I'm Building
 
-🐍 Python Projects
-
-🗄️ SQL Portfolio
-
----
-
-## ✍️ I Write About
-
-- Mathematics
-- Physics
-- Programming
-- Linux
-- Artificial Intelligence
-- Scientific Computing
-- Learning Strategies
-- Education
+- [SQL](#sql)
+- [Excel](#Excel)
+- [Python](#python)
+- [PowerBI](#tableau)
 
 ---
 
