@@ -38,10 +38,10 @@ Data analysis and reporting using Google Sheets and Excel.
     <img src="https://skillicons.dev/icons?i=twitter" alt="LinkedIn" />
   </a>
 
-   <a href="https://app.notion.com/p/Adityayan-Bhardwaj-Web-Content-Writer-3061680c20bd80c4b02aedab7c6feee4" taget="blank">
+<!--   <a href="https://app.notion.com/p/Adityayan-Bhardwaj-Web-Content-Writer-3061680c20bd80c4b02aedab7c6feee4" taget="blank">
     <img src="https://skillicons.dev/icons?i=notion" alt="LinkedIn" />
   </a>
-  
+  >
   
 </p>
 
