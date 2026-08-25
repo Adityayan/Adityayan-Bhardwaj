@@ -48,12 +48,8 @@ Data analysis and reporting using Google Sheets and Excel.
 
 > *"🚧 Actively building out the projects below — check back soon"*
 
-## 🛠️ Projects I'm Building
-
-- [SQL](#sql)
-- [Excel](#Excel)
-- [Python](#python)
-- [PowerBI](#tableau)
+## 🛠️ Data Analytics Projeccts
+- SQL [#SQL]
 
 ---
 
